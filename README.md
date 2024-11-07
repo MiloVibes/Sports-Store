@@ -1,6 +1,6 @@
-# ProCommerce
+# Mero's Sporting Goods
 
-**ProCommerce** is a cutting-edge ecommerce platform built on a solid foundation of modern technologies. Designed to empower businesses of all sizes, ProCommerce offers a comprehensive suite of features to streamline operations, enhance customer experiences, and drive sales.
+**Mero's Sporting Goods** is a dynamic sporting goods ecommerce platform created as part of a User Interface class project. Built with modern technologies, this platform is designed to cater to sports enthusiasts and businesses alike. It offers a wide range of features to simplify purchasing, enhance user experience, and support various sports-related needs.
 
 ## Tech Stack
 | **Component** | **Technology** |

@@ -1,1 +1,1 @@
-# ProCommerce Backend
+# Mero's Sporting Goods Backend

@@ -1,1 +1,1 @@
-# ProCommerce Frontend
+# Mero's Sporting Goods Frontend
