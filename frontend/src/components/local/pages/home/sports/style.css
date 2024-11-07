@@ -1,0 +1,9 @@
+.sports {
+  margin: 1rem 0 0 0;
+  border-radius: 0.3rem;
+}
+
+.sports > .sportsContainer {
+  background-color: #fff;
+  height: 25rem;
+}
