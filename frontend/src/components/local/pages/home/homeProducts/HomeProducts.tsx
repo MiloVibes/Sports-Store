@@ -58,16 +58,16 @@ export default function HomeProducts() {
   ];
   const men = [
     {
-      name: "Mixer",
+      name: "Random",
     },
     {
-      name: "Mixer",
+      name: "BlahBlah",
     },
     {
-      name: "Mixer",
+      name: "Sporty",
     },
     {
-      name: "Mixer",
+      name: "Rahhhhhhh",
     },
   ];
 
